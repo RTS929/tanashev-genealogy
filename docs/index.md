@@ -22,7 +22,7 @@
 - [ДНК-генеалогия](07-dna.md)
 - [XX век](08-soviet-period.md)
 - [Северная ветвь (гипотеза)](09-north-branch.md)
-- [Библиография] (sources/bibliography.md)
+- [Библиография] (/sources/bibliography.md)
 
 ## Как помочь
 
