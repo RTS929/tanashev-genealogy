@@ -1,5 +1,8 @@
-# Терекский период
 
+# Терекский период
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+[![Language](https://img.shields.io/badge/language-русский-blue.svg)]()
 > **Статус:** документированный период.
 > **Хронологические рамки:** 1804 (переход на Терек) — 1866 (раздел между Абаево и Коголкино).
 > **Географическая привязка:** правый берег реки Терек, при впадении реки Акбаш; междуречье Терека и Курпа.
