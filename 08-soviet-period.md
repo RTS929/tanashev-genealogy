@@ -1,6 +1,10 @@
 # Род Танашевых (Тэнашхэ) — генеалогический проект
+
 # XX век: репрессии, война, восстановление
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+[![Language](https://img.shields.io/badge/language-русский-blue.svg)]() 
 > **Статус:** документированный период.
 > **Хронологические рамки:** 1917–2000-е годы.
 > **Географическая привязка:** Кабардино-Балкария (Урух, Урожайное, Нальчик), места ссылок (Узбекистан, Кемерово, Магадан).
