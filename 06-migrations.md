@@ -3,7 +3,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 [![Language](https://img.shields.io/badge/language-русский-blue.svg)]() 
-```markdown
+
 # Миграции кабардинцев и рода Танашевых: Дон — Пятигорье — Терек — Сунжа — Курп
 
 > **Статус:** сводный документ. Содержит как **подтверждённые** данные, так и **гипотезы**.
