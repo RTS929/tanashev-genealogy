@@ -1,1 +1,94 @@
+site_name: Род Танашевых (Тэнашхэ)
+site_description: Генеалогический проект кабардинского рода Танашевых
+site_author: Танашевы
+site_url: https://<username>.github.io/<repo>/
 
+repo_name: <username>/<repo>
+repo_url: https://github.com/<username>/<repo>
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Переключить на тёмную тему
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Переключить на светлую тему
+
+plugins:
+  - search:
+      lang: ru
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+  - minify:
+      minify_html: true
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+
+nav:
+  - Главная: index.md
+  - Происхождение фамилии: 01-origins.md
+  - Донской период [гипотеза]: 02-don-period.md
+  - Сунженский период: 03-sunzha.md
+  - Терекский период: 04-terek.md
+  - Курпский период: 05-kurp.md
+  - Миграции: 06-migrations.md
+  - ДНК-генеалогия: 07-dna.md
+  - XX век: 08-soviet-period.md
+  - Северная ветвь [гипотеза]: 09-north-branch.md
+  - Источники:
+      - Библиография: sources/bibliography.md
+      - Архивы: sources/archives.md
+  - О проекте:
+      - Участие: CONTRIBUTING.md
+      - Лицензия: LICENSE.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/<username>/<repo>
+  generator: false
+
+copyright: >
+  Текст и данные — CC BY-SA 4.0. Изображения — согласно лицензии оригиналов.
