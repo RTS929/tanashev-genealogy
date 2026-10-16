@@ -2,7 +2,8 @@
 # Курпский период
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
-[![Language](https://img.shields.io/badge/language-русский-blue.svg)]()> **Статус:** документированный период.
+[![Language](https://img.shields.io/badge/language-русский-blue.svg)]() 
+> **Статус:** документированный период.
 > **Хронологические рамки:** не ранее 1838–1839 гг. — 1866 г. (раздел между Абаево и Коголкино).
 > **Географическая привязка:** правый берег реки Курп, Терско-Курпское междуречье.
 
