@@ -76,10 +76,10 @@ nav:
   - Северная ветвь [гипотеза]: 09-north-branch.md
   - Источники:
       - Библиография: sources/bibliography.md
-   #   - Архивы: sources/archives.md
+      - Архивы: sources/archives.md
   - О проекте:
       - Участие: CONTRIBUTING.md
-   #   - Лицензия: LICENSE.md
+      - Лицензия: LICENSE.md
 
 extra:
   social:
