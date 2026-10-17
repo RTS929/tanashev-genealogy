@@ -50,3 +50,27 @@
 ## Как указать атрибуцию
 
 При использовании материалов проекта укажите:
+Источник: «Род Танашевых (Тэнашхэ)» — генеалогический проект.
+URL: https://rts929.github.io/tanashev-genealogy/
+Лицензия: CC BY-SA 4.0 (для текста и данных)
+
+
+---
+
+## Отказ от ответственности
+
+Проект создаётся **на общественных началах**. Участники **не гарантируют** абсолютной точности всех данных, особенно в разделах, помеченных как `[гипотеза]`.
+
+**Исторические данные** могут содержать **ошибки**, **неточности** и **спорные интерпретации**. Мы **приветствуем исправления** и **дополнения** через Issues и Pull Requests.
+
+---
+
+## Контакты
+
+- **Issues**: [https://github.com/RTS929/tanashev-genealogy/issues](https://github.com/RTS929/tanashev-genealogy/issues)
+- **Pull Requests**: [https://github.com/RTS929/tanashev-genealogy/pulls](https://github.com/RTS929/tanashev-genealogy/pulls)
+- **Discussions**: [https://github.com/RTS929/tanashev-genealogy/discussions](https://github.com/RTS929/tanashev-genealogy/discussions)
+
+---
+
+> ⚠️ **Напоминание:** при использовании материалов проекта **уважайте труд** исследователей и **указывайте источник**.
