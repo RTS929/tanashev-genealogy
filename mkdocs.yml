@@ -1,10 +1,10 @@
 site_name: Род Танашевых (Тэнашхэ)
 site_description: Генеалогический проект кабардинского рода Танашевых
 site_author: Танашевы
-site_url: https://<username>.github.io/<repo>/
+site_url:https://rts929.github.io/tanashev-genealogy/
 
-repo_name: <username>/<repo>
-repo_url: https://github.com/<username>/<repo>
+repo_name: RTS929/tanashev-genealogy
+repo_url: https://github.com/RTS929/tanashev-genealogy
 edit_uri: edit/main/docs/
 
 theme:
