@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://rts929.github.io/tanashev-genealogy/sitemap.xml
