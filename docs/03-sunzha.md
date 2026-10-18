@@ -1,8 +1,11 @@
 # Род Танашевых (Тэнашхэ) — генеалогический проект
-# Сунженский период
+# Род Танашевых (Тэнашхэ) — генеалогический проект
+
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 [![Language](https://img.shields.io/badge/language-русский-blue.svg)]()
+# Сунженский период
+
 > **Статус:** документированный период.
 > **Хронологические рамки:** 1615 (первое упоминание) — 1804 (окончательный уход).
 > **Географическая привязка:** бассейн реки Сунжа, междуречье Терека и Сунжи, предгорья Чёрных гор.
