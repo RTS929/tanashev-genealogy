@@ -1,3 +1,8 @@
+# Род Танашевых (Тэнашхэ) — генеалогический проект
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+[![Language](https://img.shields.io/badge/language-русский-blue.svg)]()
 # Донской период [гипотеза]
 
 > **Статус:** гипотеза. Не подтверждена актовыми документами. Документально засвидетельствовано лишь **присутствие кабардинцев (черкесов) в Приазовье и на Нижнем Дону** в XIV–XV вв. как **торговых партнёров и военной силы**, но не как **оседлого населения**.
