@@ -85,9 +85,10 @@ nav:
       - Архивы: sources/archives.md
       - Библиография: sources/bibliography.md
       - Генеалогические данные: genealogy/genealogy.md
-      - О проекте:
-      - Участие: CONTRIBUTING.md
-      - Лицензия: LICENSE.md
+  - О проекте: about.md
+  - Участие: CONTRIBUTING.md
+  - Лицензия: LICENSE.md
+
 
 extra:
   social:
