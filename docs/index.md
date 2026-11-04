@@ -26,6 +26,8 @@
 - [ДНК-генеалогия](07-dna.md)
 - [XX век](08-soviet-period.md)
 - [Северная ветвь (гипотеза)](09-north-branch.md)
+- [Казахская ветвь (гипотеза)](10-kazakh-branch.md)
+- [Абазинская ветвь (гипотеза)](09-abaza-branch.md)
 - [Библиография](sources/bibliography.md)
   
 ## Как помочь
