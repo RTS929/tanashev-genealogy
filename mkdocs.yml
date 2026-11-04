@@ -43,9 +43,6 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: date
-  - sitemap:
-      base_url: https://rts929.github.io/tanashev-genealogy/
-      alternate_links: false
       
 markdown_extensions:
   - admonition
