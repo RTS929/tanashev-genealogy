@@ -29,7 +29,11 @@
 - [Казахская ветвь (гипотеза)](10-kazakh-branch.md)
 - [Абазинская ветвь (гипотеза)](11-abaza-branch.md)
 - [Библиография](sources/bibliography.md)
-  
+
+##  Дополнительно
+
+- [Проблемы и обсуждения](https://github.com/RTS929/tanashev-genealogy/issues)
+
 ## Как помочь
 
 См. [Участие](CONTRIBUTING.md).
