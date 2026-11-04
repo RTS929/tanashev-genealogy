@@ -67,18 +67,24 @@ markdown_extensions:
 
 nav:
   - Главная: index.md
-  - Происхождение фамилии: 01-origins.md
-  - Донской период [гипотеза]: 02-don-period.md
-  - Сунженский период: 03-sunzha.md
-  - Терекский период: 04-terek.md
-  - Курпский период: 05-kurp.md
-  - Миграции: 06-migrations.md
-  - ДНК-генеалогия: 07-dna.md
-  - XX век: 08-soviet-period.md
-  - Северная ветвь [гипотеза]: 09-north-branch.md
-  - Источники:
-      - Библиография: sources/bibliography.md
+  - История рода:
+      - Происхождение фамилии: 01-origins.md
+      - Донской период [гипотеза]: 02-don-period.md
+      - Сунженский период: 03-sunzha.md
+      - Терекский период: 04-terek.md
+      - Курпский период: 05-kurp.md
+      - XX век: 08-soviet-period.md
+  - Ветви рода:
+      - Северная (двинская) [гипотеза]: 09-north-branch.md
+      - Казахская (Қойыс-Шеркеш) [гипотеза]: 10-kazakh-branch.md
+      - Абазинская [гипотеза]: 11-abaza-branch.md
+  - Исследования:
+      - Миграции: 06-migrations.md
+      - ДНК-генеалогия: 07-dna.md
+  - Данные и источники:
       - Архивы: sources/archives.md
+      - Библиография: sources/bibliography.md
+      - Генеалогические данные: genealogy/
   - О проекте:
       - Участие: CONTRIBUTING.md
       - Лицензия: LICENSE.md
