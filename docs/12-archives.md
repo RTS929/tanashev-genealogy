@@ -18,7 +18,6 @@
   
   ![Посемейные списки Абаево, 1886 г.](https://raw.githubusercontent.com/RTS929/tanashev-genealogy/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево.jpg)
 
-
   
 - **Файл:** [Открыть скан в полном размере (JPEG)](https://raw.githubusercontent.com/RTS929/tanashev-genealogy/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево.jpg)
 - **Значение:** уточняется — ожидает расшифровки и сверки с карточками персон (поиск упоминаний ветвей рода).
