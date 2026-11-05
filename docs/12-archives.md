@@ -16,8 +16,11 @@
 - **Тип:** посемейный список — один из базовых источников по составу дворов и поколенной структуре второй половины XIX века.
 - **Миниатюра:**
   
-  ![Посемейные списки Абаево, 1886 г.] (https://raw.githubusercontent.com/RTS929/tanashev-genealogy/refs/heads/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево.jpg)
-- **Файл:** [Открыть скан в полном размере (JPEG)](https://raw.githubusercontent.com/RTS929/tanashev-genealogy/refs/heads/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево.jpg)
+  [Посемейные списки Абаево, 1886 г.](https://raw.githubusercontent.com/RTS929/tanashev-genealogy/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево.jpg)
+
+
+  
+- **Файл:** [Открыть скан в полном размере (JPEG)](https://raw.githubusercontent.com/RTS929/tanashev-genealogy/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево.jpg)
 - **Значение:** уточняется — ожидает расшифровки и сверки с карточками персон (поиск упоминаний ветвей рода).
 - **Статус:** в работе
 
