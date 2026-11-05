@@ -34,12 +34,11 @@
 
 - **Что известно:** 
 > - **Наименование:** Karte vom Kaukasus nach der russischen General-Stabs-Karte in 4 Bl. und andern guten Materialien entworfen und gezeichnet von F. Handtke
-> - **Заголовок** в верхнем поле: Russisch-Turkischer Kriegsschauplatz in Asien. № 1–2
-> - **Автор-составитель:** Фридрих Хандтке (Friedrich Handtke, 1815–1879)
-> - **Издатель:** Карл Флемминг (Carl Flemming), Глогау (и Лейпциг)
-> - **Место и год:** Глогау, 1855
-> - **Происхождение:** из атласа Sohr K., Berghaus K. «Vollständiger Hand-Atlas der neueren Erdbeschreibung über alle Theile der Erde in 82 Blättern», Glogau und Leipzig, 1855 
-mus-col.com +1
+> **Заголовок** в верхнем поле: Russisch-Turkischer Kriegsschauplatz in Asien. № 1–2
+> **Автор-составитель:** Фридрих Хандтке (Friedrich Handtke, 1815–1879)
+> **Издатель:** Карл Флемминг (Carl Flemming), Глогау (и Лейпциг)
+> **Место и год:** Глогау, 1855
+> **Происхождение:** из атласа Sohr K., Berghaus K. «Vollständiger Hand-Atlas der neueren Erdbeschreibung über alle Theile der Erde in 82 Blättern», Glogau und Leipzig, 1855
 >**Техника:** литография, ручная раскраска акварелью, бумага
 >**Размер листа:** 45,5 × 71 см (составной лист из двух частей, горизонтальный формат)
 >**Масштаб:** примерно 1:2 050 000; указан в немецких милях и русских вёрстах; градусная сетка
