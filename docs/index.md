@@ -43,8 +43,10 @@
 - [Сканы документов](12-archives.md)
 - [Архивы](sources/archives.md) — фонды и шифры (РГАДА, СПбИИ РАН, ЦГА КБР)
 - [Библиография](sources/bibliography.md)
-- [Генеалогические данные](genealogy/genealogy.md) — GEDCOM-базы, карточки персон, схемы ветвей
+- [Генеалогические данные](genealogy/genealogy.md) — карточки персон, схемы ветвей
 
 ## Как помочь
 
-Правила участия — в [CONTRIBUTING.md](https://github.com/RTS929/tanashev-genealogy/blob/main/CONTRIBUTING.md). Нашли документ или ошибку — [создайте issue](https://github.com/RTS929/tanashev-genealogy/issues). Лицензия на текст и данные — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- [Правила участия](https://github.com/RTS929/tanashev-genealogy/blob/main/CONTRIBUTING.md).
+- Нашли документ или ошибку — [создайте issue](https://github.com/RTS929/tanashev-genealogy/issues).
+- Лицензия на текст и данные — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
