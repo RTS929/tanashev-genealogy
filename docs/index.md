@@ -3,6 +3,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![GitHub Issues](https://img.shields.io/badge/обсуждение-issues-blue.svg)](https://github.com/RTS929/tanashev-genealogy/issues)
 
+![](https://github.com/RTS929/tanashev-genealogy/blob/main/docs/assets/favicon.png)
 Добро пожаловать в открытый генеалогический проект кабардинского рода **Танашевых** (адыг. **Тэнашхэ**).
 
 ## О проекте
