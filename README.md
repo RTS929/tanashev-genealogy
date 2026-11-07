@@ -1,9 +1,11 @@
+
 # Род Танашевых (Тэнашхэ) — генеалогический проект
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 [![Language](https://img.shields.io/badge/language-русский-blue.svg)]()
 
+![](https://github.com/RTS929/tanashev-genealogy/blob/main/docs/assets/favicon.png)
 > Открытый исследовательский проект по генеалогии кабардинского рода Танашевых (адыг. **Тэнашхэ**) — от первых документальных упоминаний XVI века до наших дней.
 
 ---
