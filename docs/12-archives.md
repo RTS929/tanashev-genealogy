@@ -123,10 +123,9 @@
   и поколенной структуре второй половины XIX века.
 - **Миниатюра:**
 
-  ![Посемейные списки Абаево, 1886 г.](https://raw.githubusercontent.com/RTS929/tanashev-genealogy/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево%28thumbnail%29.jpg)
+  ![Посемейные списки Абаево, 1886 г.](https://raw.githubusercontent.com/RTS929/tanashev-genealogy/refs/heads/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево%28thumbnail%29.jpg)
 
-- **Файл:** [Открыть скан в полном размере (JPEG)](https://raw.githubusercontent.com/RTS929/tanashev-genealogy/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево.jpg)
-
+- **Файл:** [Открыть скан в полном размере (JPEG)](https://raw.githubusercontent.com/RTS929/tanashev-genealogy/refs/heads/main/docs/assets/1886%20Посемейные%20списки%20селения%20Абаево.jpg)
 ## Текст документа
 
 **Посемейный список селения Абаево** 3-го участка Нальчикского округа Терской области.
